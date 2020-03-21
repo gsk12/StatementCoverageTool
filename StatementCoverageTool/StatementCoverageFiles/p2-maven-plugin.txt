@@ -1,0 +1,277 @@
+[TEST] org.reficio.p2.utils.BundleUtilsTest:isBundle_cannotOpenManifest
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:68
+org/reficio/p2/utils/BundleUtilsTest:69
+org/reficio/p2/utils/BundleUtilsTest:72
+org/reficio/p2/utils/BundleUtilsTest:75
+org/reficio/p2/utils/BundleUtilsTest:76
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newDefaultArtifact
+[TEST] org.reficio.p2.utils.BundleUtilsTest:isBundle_emptyManifest
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:81
+org/reficio/p2/utils/BundleUtilsTest:82
+org/reficio/p2/utils/BundleUtilsTest:85
+org/reficio/p2/utils/BundleUtilsTest:88
+org/reficio/p2/utils/BundleUtilsTest:89
+org/reficio/p2/P2ArtifactTest:32
+[TEST] org.reficio.p2.utils.BundleUtilsTest:getBundleName_correctBundleNameFromMainAttribuets
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:121
+org/reficio/p2/utils/BundleUtilsTest:122
+org/reficio/p2/utils/BundleUtilsTest:123
+org/reficio/p2/utils/BundleUtilsTest:126
+org/reficio/p2/utils/BundleUtilsTest:129
+org/reficio/p2/utils/BundleUtilsTest:130
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.utils.BundleUtilsTest:isBundle_manifestWithAttributes
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:94
+org/reficio/p2/utils/BundleUtilsTest:95
+org/reficio/p2/utils/BundleUtilsTest:98
+org/reficio/p2/utils/BundleUtilsTest:101
+org/reficio/p2/utils/BundleUtilsTest:102
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.publisher.CategoryPublisherTest:exceptionThrownInCaseOfLauncherFailure
+org/reficio/p2/publisher/CategoryPublisher:85
+org/reficio/p2/publisher/CategoryPublisher:50
+org/reficio/p2/publisher/CategoryPublisher:51
+org/reficio/p2/publisher/CategoryPublisher:52
+org/reficio/p2/publisher/CategoryPublisher:53
+org/reficio/p2/publisher/CategoryPublisher:54
+org/reficio/p2/publisher/CategoryPublisher:55
+org/reficio/p2/publisher/CategoryPublisher:56
+org/reficio/p2/publisher/CategoryPublisher:59
+org/reficio/p2/publisher/CategoryPublisher:64
+org/reficio/p2/publisher/CategoryPublisher:65
+org/reficio/p2/publisher/CategoryPublisher:66
+org/reficio/p2/publisher/CategoryPublisher:67
+org/reficio/p2/publisher/CategoryPublisher:69
+org/reficio/p2/publisher/CategoryPublisher:70
+org/reficio/p2/publisher/CategoryPublisher:72
+org/reficio/p2/publisher/CategoryPublisher:73
+org/reficio/p2/publisher/CategoryPublisher:74
+org/reficio/p2/publisher/CategoryPublisher:75
+org/reficio/p2/publisher/CategoryPublisher:60
+org/reficio/p2/publisher/CategoryPublisher:78
+org/reficio/p2/publisher/CategoryPublisher:79
+org/reficio/p2/publisher/CategoryPublisher:80
+org/reficio/p2/publisher/CategoryPublisherTest:64
+org/reficio/p2/publisher/CategoryPublisherTest:65
+org/reficio/p2/publisher/CategoryPublisherTest:66
+org/reficio/p2/publisher/CategoryPublisherTest:67
+org/reficio/p2/publisher/CategoryPublisherTest:70
+org/reficio/p2/publisher/CategoryPublisherTest:71
+org/reficio/p2/publisher/CategoryPublisherTest:72
+org/reficio/p2/publisher/CategoryPublisherTest:73
+org/reficio/p2/publisher/CategoryPublisherTest:74
+org/reficio/p2/publisher/CategoryPublisherTest:75
+org/reficio/p2/publisher/CategoryPublisherTest:76
+org/reficio/p2/publisher/CategoryPublisherTest:39
+[TEST] org.reficio.p2.resolver.impl.AetherTest:facade_eclipseAetherSystem
+org/reficio/p2/resolver/impl/AetherTest:53
+org/reficio/p2/resolver/impl/AetherTest:56
+org/reficio/p2/resolver/impl/AetherTest:59
+org/reficio/p2/resolver/impl/AetherTest:60
+org/reficio/p2/resolver/impl/AetherTest:36
+[TEST] org.reficio.p2.P2ArtifactTest:testInstructionsPropertiesOverrideInstructions
+org/reficio/p2/P2Artifact:86
+org/reficio/p2/P2Artifact:46
+org/reficio/p2/P2Artifact:51
+org/reficio/p2/P2Artifact:56
+org/reficio/p2/P2Artifact:61
+org/reficio/p2/P2Artifact:66
+org/reficio/p2/P2Artifact:71
+org/reficio/p2/P2Artifact:77
+org/reficio/p2/P2Artifact:82
+org/reficio/p2/P2Artifact:84
+org/reficio/p2/P2Artifact:87
+org/reficio/p2/P2Artifact:102
+org/reficio/p2/P2Artifact:104
+org/reficio/p2/P2Artifact:164
+org/reficio/p2/P2Artifact:165
+org/reficio/p2/P2Artifact:105
+org/reficio/p2/P2Artifact:148
+org/reficio/p2/P2Artifact:150
+org/reficio/p2/P2Artifact:151
+org/reficio/p2/P2Artifact:154
+org/reficio/p2/P2Artifact:155
+org/reficio/p2/P2Artifact:168
+org/reficio/p2/P2Artifact:170
+org/reficio/p2/P2Artifact:171
+org/reficio/p2/P2Artifact:173
+org/reficio/p2/P2Artifact:174
+org/reficio/p2/P2Artifact:175
+org/reficio/p2/P2Artifact:176
+org/reficio/p2/P2Artifact:178
+org/reficio/p2/P2Artifact:157
+org/reficio/p2/P2Artifact:160
+org/reficio/p2/P2ArtifactTest:55
+org/reficio/p2/P2ArtifactTest:56
+org/reficio/p2/P2ArtifactTest:57
+org/reficio/p2/P2ArtifactTest:58
+org/reficio/p2/P2ArtifactTest:59
+org/reficio/p2/P2ArtifactTest:62
+org/reficio/p2/P2ArtifactTest:65
+org/reficio/p2/P2ArtifactTest:66
+org/reficio/p2/P2ArtifactTest:67
+org/reficio/p2/P2ArtifactTest:32
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newPatternExclusionsDependencyFilter
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newSubArtifact
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newDependencyRequest
+[TEST] org.reficio.p2.bundler.ArtifactBundlerInstructionTest:calculateSourceName_specTest
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:36
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:37
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:38
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:39
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:40
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:41
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:42
+[TEST] org.reficio.p2.P2ArtifactTest:testCombinedInstructions
+org/reficio/p2/P2Artifact:86
+org/reficio/p2/P2Artifact:46
+org/reficio/p2/P2Artifact:51
+org/reficio/p2/P2Artifact:56
+org/reficio/p2/P2Artifact:61
+org/reficio/p2/P2Artifact:66
+org/reficio/p2/P2Artifact:71
+org/reficio/p2/P2Artifact:77
+org/reficio/p2/P2Artifact:82
+org/reficio/p2/P2Artifact:84
+org/reficio/p2/P2Artifact:87
+org/reficio/p2/P2Artifact:102
+org/reficio/p2/P2Artifact:104
+org/reficio/p2/P2Artifact:164
+org/reficio/p2/P2Artifact:165
+org/reficio/p2/P2Artifact:105
+org/reficio/p2/P2Artifact:148
+org/reficio/p2/P2Artifact:150
+org/reficio/p2/P2Artifact:151
+org/reficio/p2/P2Artifact:154
+org/reficio/p2/P2Artifact:155
+org/reficio/p2/P2Artifact:168
+org/reficio/p2/P2Artifact:170
+org/reficio/p2/P2Artifact:171
+org/reficio/p2/P2Artifact:173
+org/reficio/p2/P2Artifact:174
+org/reficio/p2/P2Artifact:175
+org/reficio/p2/P2Artifact:176
+org/reficio/p2/P2Artifact:178
+org/reficio/p2/P2Artifact:157
+org/reficio/p2/P2Artifact:160
+org/reficio/p2/P2ArtifactTest:37
+org/reficio/p2/P2ArtifactTest:38
+org/reficio/p2/P2ArtifactTest:39
+org/reficio/p2/P2ArtifactTest:40
+org/reficio/p2/P2ArtifactTest:41
+org/reficio/p2/P2ArtifactTest:44
+org/reficio/p2/P2ArtifactTest:47
+org/reficio/p2/P2ArtifactTest:48
+org/reficio/p2/P2ArtifactTest:49
+org/reficio/p2/P2ArtifactTest:50
+org/reficio/p2/P2ArtifactTest:32
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newSubArtifact
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newDependency
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newArtifactRequest
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newPreorderNodeListGenerator
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newDependencyRequest
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newPreorderNodeListGenerator
+[TEST] org.reficio.p2.publisher.CategoryPublisherTest:emptyBuilder
+org/reficio/p2/publisher/CategoryPublisher:85
+org/reficio/p2/publisher/CategoryPublisherTest:48
+org/reficio/p2/publisher/CategoryPublisherTest:39
+[TEST] org.reficio.p2.utils.BundleUtilsTest:newManifest_hasMainAttributes
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:106
+org/reficio/p2/utils/BundleUtilsTest:107
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.P2ArtifactTest:testInstructionsPropertiesOverrideInstructionsWhenPropertiesSetFirst
+org/reficio/p2/logger/LoggerTest:29
+org/reficio/p2/P2Artifact:86
+org/reficio/p2/P2Artifact:46
+org/reficio/p2/P2Artifact:51
+org/reficio/p2/P2Artifact:56
+org/reficio/p2/P2Artifact:61
+org/reficio/p2/P2Artifact:66
+org/reficio/p2/P2Artifact:71
+org/reficio/p2/P2Artifact:77
+org/reficio/p2/P2Artifact:82
+org/reficio/p2/P2Artifact:84
+org/reficio/p2/P2Artifact:87
+org/reficio/p2/P2Artifact:148
+org/reficio/p2/P2Artifact:150
+org/reficio/p2/P2Artifact:164
+org/reficio/p2/P2Artifact:165
+org/reficio/p2/P2Artifact:151
+org/reficio/p2/P2Artifact:102
+org/reficio/p2/P2Artifact:104
+org/reficio/p2/P2Artifact:105
+org/reficio/p2/P2Artifact:154
+org/reficio/p2/P2Artifact:155
+org/reficio/p2/P2Artifact:168
+org/reficio/p2/P2Artifact:170
+org/reficio/p2/P2Artifact:171
+org/reficio/p2/P2Artifact:173
+org/reficio/p2/P2Artifact:174
+org/reficio/p2/P2Artifact:175
+org/reficio/p2/P2Artifact:176
+org/reficio/p2/P2Artifact:178
+org/reficio/p2/P2Artifact:157
+org/reficio/p2/P2Artifact:160
+org/reficio/p2/P2ArtifactTest:72
+org/reficio/p2/P2ArtifactTest:73
+org/reficio/p2/P2ArtifactTest:74
+org/reficio/p2/P2ArtifactTest:75
+org/reficio/p2/P2ArtifactTest:76
+org/reficio/p2/P2ArtifactTest:79
+org/reficio/p2/P2ArtifactTest:82
+org/reficio/p2/P2ArtifactTest:83
+org/reficio/p2/P2ArtifactTest:84
+[TEST] org.reficio.p2.publisher.CategoryPublisherTest:nullLauncher
+org/reficio/p2/publisher/CategoryPublisher:85
+org/reficio/p2/publisher/CategoryPublisherTest:43
+org/reficio/p2/publisher/CategoryPublisherTest:39
+[TEST] org.reficio.p2.publisher.CategoryPublisherTest:wrongTimeout
+org/reficio/p2/publisher/CategoryPublisher:85
+org/reficio/p2/utils/BundleUtilsTest:44
+org/reficio/p2/publisher/CategoryPublisherTest:53
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newCollectRequest
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newDependency
+[TEST] org.reficio.p2.utils.BundleUtilsTest:isBundle_nonExistingJar
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:56
+org/reficio/p2/utils/BundleUtilsTest:59
+org/reficio/p2/utils/BundleUtilsTest:62
+org/reficio/p2/utils/BundleUtilsTest:63
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newArtifactRequest
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherEclipseFacadeTest:newDefaultArtifact
+[TEST] org.reficio.p2.publisher.CategoryPublisherTest:wrongArgs
+org/reficio/p2/publisher/CategoryPublisher:85
+org/reficio/p2/publisher/CategoryPublisherTest:58
+org/reficio/p2/publisher/CategoryPublisherTest:39
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newPatternExclusionsDependencyFilter
+[TEST] org.reficio.p2.utils.BundleUtilsTest:isBundle_nonExistingFile
+org/reficio/p2/utils/BundleUtilsTest:50
+org/reficio/p2/utils/BundleUtilsTest:51
+org/reficio/p2/utils/BundleUtilsTest:112
+org/reficio/p2/utils/BundleUtilsTest:115
+org/reficio/p2/utils/BundleUtilsTest:44
+[TEST] org.reficio.p2.resolver.maven.impl.facade.AetherSonatypeFacadeTest:newCollectRequest
+org/reficio/p2/bundler/ArtifactBundlerInstructionTest:32
+[TEST] org.reficio.p2.logger.LoggerTest:getLog_uninitializedLogger_exceptionThrown
+org/reficio/p2/resolver/impl/AetherTest:36
+org/reficio/p2/logger/LoggerTest:33
+org/reficio/p2/logger/Logger:37
+org/reficio/p2/logger/Logger:38
+[TEST] org.reficio.p2.resolver.impl.AetherTest:facade_sonatypeAetherSystem
+org/reficio/p2/resolver/impl/AetherTest:41
+org/reficio/p2/resolver/impl/AetherTest:44
+org/reficio/p2/resolver/impl/AetherTest:47
+org/reficio/p2/resolver/impl/AetherTest:48
