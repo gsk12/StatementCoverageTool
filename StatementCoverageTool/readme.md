@@ -5,7 +5,15 @@ CS 6367.001 - Software Testing, Validation and Verification - S20
 
 Project Phase-1
 
-Team: Sampath Kumar Grandhi (SXG180072)
+Team: 
+
+Sampath Kumar Grandhi (SXG180072)
+
+Aditya Mathur (AXM180195)
+
+Shashidhar Krovvidi  (SXK180203)
+
+Satya Sarvani Baru (SXB180153)
 
 ## Requirements
 
