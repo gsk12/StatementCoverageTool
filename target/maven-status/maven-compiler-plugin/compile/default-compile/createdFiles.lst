@@ -1,0 +1,7 @@
+StatementCoverageTool/MethodTransformVisitor.class
+StatementCoverageTool/ClassTransformVisitor.class
+StatementCoverageTool/Agent$1.class
+StatementCoverageTool/TransformClassFile.class
+StatementCoverageTool/CoverageCollector.class
+StatementCoverageTool/Agent.class
+StatementCoverageTool/JUnitListener.class
