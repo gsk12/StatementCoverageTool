@@ -3,9 +3,7 @@
 
 CS 6367.001 - Software Testing, Validation and Verification - S20
 
-Project Phase-1
-
-Team: 
+Group 5 - Project Phase-1
 
 Sampath Kumar Grandhi (SXG180072)
 
@@ -58,5 +56,6 @@ In the same folder of the project under test run:
 $ mvn test
 ```
 The Statement Coverage log is generated and stored in `StatementCoverageLog` directory in the `StatementCoverage.txt` file. 
+
 ## References
-[1] [https://github.com/lamichhaneashish/AutomatedCodeCoverageTool]
+[1] https://github.com/lamichhaneashish/AutomatedCodeCoverageTool
