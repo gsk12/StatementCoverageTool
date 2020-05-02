@@ -1,0 +1,585 @@
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:constantRegexMatchesStringAttributeInsideArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareModeTest:testWithoutExtensibility
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:dynamicRegexMatchesStringAttributeInsideArrayWithNoArgConstructor
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsMissingField
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:jsonObjectMatchesSecondElementOfJSONObjectArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testArrayOfArraysStrict
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsStringJSONObjectJSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenSecondExpectedArrayElementNotANumber
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnmatchesIntegerValueInUnorderedArrayContainingJSONObject
+[TEST] org.skyscreamer.jsonassert.JSONCompareModeTest:testWithStrictOrdering
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:failsWhenConstantRegexInvalid
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testEquivalentIntAndDouble
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimpleArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testNested
+org/json/JSONObject$1:100
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testComplexMixedStrictArray
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifySecondElementOfArrayIsJSONArrayWhoseFirstElementIs9
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimpleMixedArray
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnexpectedNonNull
+org/json/JSONObject$1:103
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesEveryElementOfJSONObjectArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesFirstElementOfArrayOfJSONArrays
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimple
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:constantRegexWithThreeLevelPathMatchsStringAttribute
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenTwoElementOfSimpleValueArrayDoNotMatch
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testLenientArrayRecursion
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnexpectedObjectWhenExpectingArray
+[TEST] org.skyscreamer.jsonassert.JSONCustomComparatorTest:whenDeepWildcardPathMatchesCallCustomMatcher
+[TEST] org.skyscreamer.jsonassert.JSONCompareModeTest:testWithoutStrictOrdering
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenDifferentStrict
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsStringJSONArrayBooleanWithMessage
+[TEST] org.skyscreamer.jsonassert.JSONCustomComparatorTest:whenPathMatchesInCustomizationThenCallCustomMatcher
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesEveryElementOfJSONObjectArrayWhenRangeTooLarge
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenSecondElementOfJSONObjectArrayDoesNotMatch
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenSizeIsMinimumOfExpectedRange
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:dynamicRegexWithThreeLevelPathMatchsStringAttribute
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenEqualStrict
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsJSONArray
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsString
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifySecondElementOfArrayIsJSONArrayWhoseFirstElementIs9WithEvenMoreSimpliedExpectedString
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesSecondElementOfJSONObjectArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsJSONArray2JSONCompareWithMessage
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyEveryElementOfArrayIsJSONArrayOfLength3
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimpleAndComplexArray
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedMaximumTooSmall
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testComplexArrayNoUniqueID
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsStringAndJSONObject
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testReversed
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyBackgroundAttributesOfEveryArrayElementAlternateBetweenWhiteAndGrey
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyIdAttributeOfFirstArrayElementMatchesSimplifiedExpectedSyntax
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsStringJSONObjectJSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsMismatchedFieldValues
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenEqualDiffObjectsLenient
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedNotAllSimpleTypes
+org/json/JSONStringer:122
+org/json/JSONStringer:64
+org/json/JSONStringer:114
+org/json/JSONStringer:123
+org/json/JSONStringer:124
+org/json/JSONStringer:158
+org/json/JSONStringer:175
+org/json/JSONStringer:178
+org/json/JSONStringer:400
+org/json/JSONStringer:401
+org/json/JSONStringer:179
+org/json/JSONStringer:180
+org/json/JSONStringer:181
+org/json/JSONStringer:371
+org/json/JSONStringer:374
+org/json/JSONStringer:384
+org/json/JSONStringer:206
+org/json/JSONStringer:209
+org/json/JSONStringer:385
+org/json/JSONStringer:387
+org/json/JSONStringer:390
+org/json/JSONStringer:354
+org/json/JSONStringer:355
+org/json/JSONStringer:391
+org/json/JSONStringer:216
+org/json/JSONStringer:217
+org/json/JSONStringer:392
+org/json/JSONStringer:375
+org/json/JSONStringer:303
+org/json/JSONStringer:304
+org/json/JSONStringer:305
+org/json/JSONStringer:313
+org/json/JSONStringer:341
+org/json/JSONStringer:344
+org/json/JSONStringer:350
+org/json/JSONStringer:351
+org/json/JSONStringer:376
+org/json/JSONStringer:228
+org/json/JSONStringer:232
+org/json/JSONStringer:236
+org/json/JSONStringer:241
+org/json/JSONStringer:404
+org/json/JSONStringer:405
+org/json/JSONStringer:408
+org/json/JSONStringer:411
+org/json/JSONStringer:412
+org/json/JSONStringer:413
+org/json/JSONStringer:417
+org/json/JSONStringer:243
+org/json/JSONStringer:248
+org/json/JSONStringer:249
+org/json/JSONStringer:255
+org/json/JSONStringer:167
+org/json/JSONStringer:189
+org/json/JSONStringer:190
+org/json/JSONStringer:194
+org/json/JSONStringer:195
+org/json/JSONStringer:196
+org/json/JSONStringer:198
+org/json/JSONStringer:199
+org/json/JSONStringer:430
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenActualArrayContainsExactly3Elements
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenFirstExpectedArrayElementNotANumber
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsJSONArray2JSONCompareWithMessage
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsString2JSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnmatchedJSONObjectInUnorderedArray
+org/json/JSONStringer:122
+org/json/JSONStringer:64
+org/json/JSONStringer:114
+org/json/JSONStringer:123
+org/json/JSONStringer:124
+org/json/JSONStringer:158
+org/json/JSONStringer:175
+org/json/JSONStringer:178
+org/json/JSONStringer:400
+org/json/JSONStringer:401
+org/json/JSONStringer:179
+org/json/JSONStringer:180
+org/json/JSONStringer:181
+org/json/JSONStringer:371
+org/json/JSONStringer:374
+org/json/JSONStringer:384
+org/json/JSONStringer:206
+org/json/JSONStringer:209
+org/json/JSONStringer:385
+org/json/JSONStringer:387
+org/json/JSONStringer:390
+org/json/JSONStringer:354
+org/json/JSONStringer:355
+org/json/JSONStringer:391
+org/json/JSONStringer:216
+org/json/JSONStringer:217
+org/json/JSONStringer:392
+org/json/JSONStringer:375
+org/json/JSONStringer:303
+org/json/JSONStringer:304
+org/json/JSONStringer:305
+org/json/JSONStringer:313
+org/json/JSONStringer:341
+org/json/JSONStringer:344
+org/json/JSONStringer:350
+org/json/JSONStringer:351
+org/json/JSONStringer:376
+org/json/JSONStringer:228
+org/json/JSONStringer:232
+org/json/JSONStringer:236
+org/json/JSONStringer:237
+org/json/JSONStringer:404
+org/json/JSONStringer:405
+org/json/JSONStringer:408
+org/json/JSONStringer:411
+org/json/JSONStringer:412
+org/json/JSONStringer:413
+org/json/JSONStringer:417
+org/json/JSONStringer:241
+org/json/JSONStringer:243
+org/json/JSONStringer:248
+org/json/JSONStringer:252
+org/json/JSONStringer:255
+org/json/JSONStringer:167
+org/json/JSONStringer:189
+org/json/JSONStringer:190
+org/json/JSONStringer:194
+org/json/JSONStringer:195
+org/json/JSONStringer:196
+org/json/JSONStringer:198
+org/json/JSONStringer:199
+org/json/JSONStringer:238
+org/json/JSONStringer:430
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesElementPairsStartingFromElement1OfJSONObjectArrayWhenRangeTooLarge
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnexpectedArrayWhenExpectingObject
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testBooleanArray
+[TEST] org.skyscreamer.jsonassert.comparator.CustomComparatorTest:testFullArrayComparison
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenSizeWithinExpectedRange
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnmatchedJSONArrayWhereOnlyExpectedContainsJSONObjectWithUniqueKey
+org/json/JSONStringer:122
+org/json/JSONStringer:64
+org/json/JSONStringer:114
+org/json/JSONStringer:123
+org/json/JSONStringer:124
+org/json/JSONStringer:158
+org/json/JSONStringer:175
+org/json/JSONStringer:178
+org/json/JSONStringer:400
+org/json/JSONStringer:401
+org/json/JSONStringer:179
+org/json/JSONStringer:180
+org/json/JSONStringer:181
+org/json/JSONStringer:371
+org/json/JSONStringer:374
+org/json/JSONStringer:384
+org/json/JSONStringer:206
+org/json/JSONStringer:209
+org/json/JSONStringer:385
+org/json/JSONStringer:387
+org/json/JSONStringer:390
+org/json/JSONStringer:354
+org/json/JSONStringer:355
+org/json/JSONStringer:391
+org/json/JSONStringer:216
+org/json/JSONStringer:217
+org/json/JSONStringer:392
+org/json/JSONStringer:375
+org/json/JSONStringer:303
+org/json/JSONStringer:304
+org/json/JSONStringer:305
+org/json/JSONStringer:313
+org/json/JSONStringer:341
+org/json/JSONStringer:344
+org/json/JSONStringer:350
+org/json/JSONStringer:351
+org/json/JSONStringer:376
+org/json/JSONStringer:228
+org/json/JSONStringer:232
+org/json/JSONStringer:236
+org/json/JSONStringer:241
+org/json/JSONStringer:404
+org/json/JSONStringer:405
+org/json/JSONStringer:408
+org/json/JSONStringer:411
+org/json/JSONStringer:412
+org/json/JSONStringer:413
+org/json/JSONStringer:417
+org/json/JSONStringer:243
+org/json/JSONStringer:248
+org/json/JSONStringer:249
+org/json/JSONStringer:255
+org/json/JSONStringer:167
+org/json/JSONStringer:189
+org/json/JSONStringer:190
+org/json/JSONStringer:194
+org/json/JSONStringer:195
+org/json/JSONStringer:196
+org/json/JSONStringer:198
+org/json/JSONStringer:199
+org/json/JSONStringer:430
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsString2JsonComparator
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenActualArrayTooShort
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedArrayTooShort
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenNotEveryElementOfJSONObjectArrayMatches
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:failsWhenDynamicRegexInvalid
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNtEqualsJSONObject2JSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedMinimumTooSmall
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:succeedsWithNestedJSONObjectsInUnorderedArray
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsString
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:constantRegexWithSimplePathMatchsStringAttribute
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:simpleValueMatchesSecondElementOfJSONObjectArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsStringJSONObjectBoolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCustomComparatorTest:whenRootDeepWildcardPathMatchesCallCustomMatcher
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimpleStrict
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenAppliedToNonArray
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:failsWhenConstantRegexDoesNotMatchStringAttributeInsideArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testFieldMismatch
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testEquivalentIntAndLong
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsArrayMissingExpectedElement
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testNumber
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnmatchedJSONArrayWhereExpectedContainsJSONObjectWithUniqueKeyButActualContainsElementOfOtherType
+org/json/JSONStringer$Scope:77
+org/json/JSONStringer$Scope:71
+org/json/JSONStringer$Scope:83
+org/json/JSONStringer$Scope:89
+org/json/JSONStringer$Scope:95
+org/json/JSONStringer$Scope:101
+org/json/JSONStringer$Scope:107
+org/json/JSONStringer:122
+org/json/JSONStringer:64
+org/json/JSONStringer:114
+org/json/JSONStringer:123
+org/json/JSONStringer:124
+org/json/JSONStringer:158
+org/json/JSONStringer:175
+org/json/JSONStringer:178
+org/json/JSONStringer:400
+org/json/JSONStringer:401
+org/json/JSONStringer:179
+org/json/JSONStringer:180
+org/json/JSONStringer:181
+org/json/JSONStringer:371
+org/json/JSONStringer:374
+org/json/JSONStringer:384
+org/json/JSONStringer:206
+org/json/JSONStringer:209
+org/json/JSONStringer:385
+org/json/JSONStringer:387
+org/json/JSONStringer:390
+org/json/JSONStringer:354
+org/json/JSONStringer:355
+org/json/JSONStringer:391
+org/json/JSONStringer:216
+org/json/JSONStringer:217
+org/json/JSONStringer:392
+org/json/JSONStringer:375
+org/json/JSONStringer:303
+org/json/JSONStringer:304
+org/json/JSONStringer:305
+org/json/JSONStringer:313
+org/json/JSONStringer:341
+org/json/JSONStringer:344
+org/json/JSONStringer:350
+org/json/JSONStringer:351
+org/json/JSONStringer:376
+org/json/JSONStringer:228
+org/json/JSONStringer:232
+org/json/JSONStringer:236
+org/json/JSONStringer:241
+org/json/JSONStringer:404
+org/json/JSONStringer:405
+org/json/JSONStringer:408
+org/json/JSONStringer:411
+org/json/JSONStringer:412
+org/json/JSONStringer:413
+org/json/JSONStringer:417
+org/json/JSONStringer:243
+org/json/JSONStringer:248
+org/json/JSONStringer:249
+org/json/JSONStringer:255
+org/json/JSONStringer:167
+org/json/JSONStringer:189
+org/json/JSONStringer:190
+org/json/JSONStringer:194
+org/json/JSONStringer:195
+org/json/JSONStringer:196
+org/json/JSONStringer:198
+org/json/JSONStringer:199
+org/json/JSONStringer:430
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCustomComparatorTest:whenSimpleWildcardPathMatchesCallCustomMatcher
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsString2JsonComparator
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenInnerArraySizeDoesNotMatch
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenEqualDiffObjectsStrict
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.JSONCompareUtilTest:testGetCardinalityMap
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyEveryArrayElementWithCustomComparator
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsStringJSONArrayBooleanWithMessage
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsJSONObject2Boolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsString2Boolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:dynamicRegexWithSimplePathMatchsStringAttribute
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsJSONObject2Boolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsStringJSONArrayCompareModeWithMessage
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedArraySizeNotANumber
+[TEST] org.skyscreamer.jsonassert.DependencyTest:nop
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testNullEquality
+org/json/JSONObject$1:100
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testNullProperty
+org/json/JSONObject$1:103
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifySecondElementOfArrayIsJSONArrayWhoseFirstElementIs9WithSimpliedExpectedString
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsMissingJSONObjectWithUniqueKeyInUnorderedArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsString2Boolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareModeTest:testWithExtensibility
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testExpectedObjectButActualArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenDifferentLenient
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testArray
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testIncorrectTypes
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:dynamicRegexMatchesStringAttributeInsideArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsJSONObject2JSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenActualArrayLongerThanExpectedLength
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:succeedsWithEmptyArrays
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testComplexMixedArray
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testExpectedArrayButActualObject
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCustomComparatorTest:whenDeepPathMatchesCallCustomMatcher
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenActualArrayContainsBetween2And6Elements
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testSimpleAndComplexStrictArray
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenExpectedArrayTooLong
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testVeryNested
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenThirdElementOfJSONObjectArrayDoesNotMatchInMultiplePlaces
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsStringJSONArrayCompareModeWithMessage
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenTwoElementsOfJSONObjectArrayDoNotMatch
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertEqualsJSONArray2BooleanWithMessage
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenExactSizeExpected
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.RegularExpressionValueMatcherTest:failsWhenDynamicRegexDoesNotMatchStringAttributeInsideArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsMismatchedTypes
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:succeedsWithJSONObjectsWithNonUniqueKeyInUnorderedArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyTypeAttributeOfSecondAndThirdElementMatchesRow
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:succeedsWhenSizeIsMaximumOfExpectedRange
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsWhenEqualLenient
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnexpectedNull
+org/json/JSONObject$1:103
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testString
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsArraysOfUnequalLength
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesThirdElementOfSimpleValueArray
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testArrayOfArrays
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:succeedsWithSomeNestedJSONObjectsInUnorderedArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesSizeOfFirstThreeInnerArrays
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsUnexpectedFieldInNonExtensibleMode
+org/json/JSONObject$1:98
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsString2JSONCompare
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsJSONArray2BooleanWithMessage
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyIdAttributeOfFirstArrayElementMatches
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testComplexArray
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.comparator.ArraySizeComparatorTest:failsWhenActualArrayLongerThanMaxOfExpectedRange
+org/json/JSON:59
+org/json/JSON:60
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:failsWhenInnerJSONObjectArrayElementDoesNotMatch
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:verifyTypeAttributeOfEveryArrayElementMatchesRow
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONAssertTest:testAssertNotEqualsStringJSONObjectBoolean
+org/json/JSON:24
+org/json/JSON:27
+[TEST] org.skyscreamer.jsonassert.JSONCompareTest:reportsWrongSimpleValueCountInUnorderedArray
+[TEST] org.skyscreamer.jsonassert.ArrayValueMatcherTest:matchesElementPairsStartingFromElement0OfJSONObjectArrayWhenRangeTooLarge
+org/json/JSON:24
+org/json/JSON:27
